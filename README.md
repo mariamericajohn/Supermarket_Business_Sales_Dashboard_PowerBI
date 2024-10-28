@@ -1,6 +1,6 @@
 ## Supermarket_Business_Sales_Dashboard_PowerBI
 
-This repository provides all files needed to analyze superstore sales data with Power BI. It explores customer behavior, product performance, and regional trends, offering insights for business optimization through comprehensive data visualization and analysis.
+This repository provides all files needed to analyze superstore sales data with Power BI. It explores product performance, and regional trends, offering insights for business optimization through comprehensive data visualization and analysis.
 
 
 ![sales analysis](https://github.com/user-attachments/assets/8e296a80-0c81-4ff7-9325-56200427e15e)
